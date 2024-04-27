@@ -1,5 +1,5 @@
 {
-"products" :[
+"products":[
    {
       "id": 1,
       "badge": {
@@ -80,7 +80,7 @@
    }
 ],
 
-"categories": [
+"categories":[
    {
       "id": 1,
       "image": "/images/JM/Shop/1(6).png",
