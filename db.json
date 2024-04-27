@@ -84,13 +84,13 @@
    {
       "id": 1,
       "image": "/images/JM/Shop/1(6).png",
-      "section": "Браслети",
-      "name": "Срібний браслет"
+      "name": "Срібний браслет",
+      "section": "Браслети"      
    },
    {
       "id": 2,
-      "name": "Золотий ланцюжок",
       "image": "/images/JM/Shop/Screenshot_20.png",
+      "name": "Золотий ланцюжок",   
       "section": "Ланцюжки"
    },
    {
